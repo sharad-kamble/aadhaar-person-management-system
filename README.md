@@ -77,7 +77,7 @@ App will run on: `http://localhost:8080`
 
 ## 📬 API Endpoints
 
-### POST `/person/add`
+### POST `/person`
 Add a new person with Aadhaar.
 
 **Sample JSON:**
